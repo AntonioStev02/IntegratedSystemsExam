@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\views\\vaccinationcenters\\lowcapacity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\lowcapacity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\controllers\\vaccinationcenterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\controllers\\vaccinationcenterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.service\\implementation\\vaccinationcenterserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\implementation\\vaccinationcenterserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.service\\interface\\ivaccinationcenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\interface\\ivaccinationcenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.domain\\dto\\vaccinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\dto\\vaccinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\views\\vaccinationcenters\\schedulevaccination.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\schedulevaccination.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.service\\implementation\\vaccineserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\implementation\\vaccineserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.service\\interface\\ivaccineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\interface\\ivaccineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.domain\\domain models\\vaccinationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\domain models\\vaccinationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.domain\\domain models\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\domain models\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.domain\\domain models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\domain models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\views\\vaccinationcenters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\views\\vaccinationcenters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\views\\vaccinationcenters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\views\\vaccinationcenters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\views\\vaccinationcenters\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.service\\implementation\\patientserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\implementation\\patientserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.service\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.repository\\migrations\\20240408232639_addedinitialdomainmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\migrations\\20240408232639_addedinitialdomainmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160547_UpdateVaccineTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IntegratedSystemsExamDatabase/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160325_UpdateVaccineTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|c:\\users\\antonio\\desktop\\integratedsystemsexam moe resenie resena\\integratedsystemsexam moe resenie resena\\integratedsystems.domain\\identity models\\integratedsystemsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\identity models\\integratedsystemsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LowCapacity.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\LowCapacity.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\LowCapacity.cshtml",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\LowCapacity.cshtml*",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\LowCapacity.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T14:08:11.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VaccineServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Service\\Implementation\\VaccineServiceImpl.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Implementation\\VaccineServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Service\\Implementation\\VaccineServiceImpl.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Implementation\\VaccineServiceImpl.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:43:31.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VaccinationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Domain\\DTO\\VaccinationDTO.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\DTO\\VaccinationDTO.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Domain\\DTO\\VaccinationDTO.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\DTO\\VaccinationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:32:22.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduleVaccination.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\ScheduleVaccination.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\ScheduleVaccination.cshtml",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\ScheduleVaccination.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\ScheduleVaccination.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T15:37:43.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVaccinationCenterService.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs*",
+              "RelativeToolTip": "IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:11:31.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VaccinationCenterServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Service\\Implementation\\VaccinationCenterServiceImpl.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Implementation\\VaccinationCenterServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Service\\Implementation\\VaccinationCenterServiceImpl.cs*",
+              "RelativeToolTip": "IntegratedSystems.Service\\Implementation\\VaccinationCenterServiceImpl.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAvwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:14:32.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VaccinationCentersController.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs*",
+              "RelativeToolTip": "IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:56:50.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVaccineService.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Service\\Interface\\IVaccineService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Interface\\IVaccineService.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Service\\Interface\\IVaccineService.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Interface\\IVaccineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:42:46.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Program.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Program.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:07:39.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T15:52:04.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VaccinationCenter.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Domain\\Domain Models\\VaccinationCenter.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Domain Models\\VaccinationCenter.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Domain\\Domain Models\\VaccinationCenter.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Domain Models\\VaccinationCenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:41:40.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Index.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T15:26:55.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAADwv0YAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T15:26:54.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vaccine.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Domain\\Domain Models\\Vaccine.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Domain Models\\Vaccine.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Domain\\Domain Models\\Vaccine.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Domain Models\\Vaccine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:40:05.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:43:38.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:38:56.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswIQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:10:05.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Edit.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T15:38:06.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Create.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T15:38:29.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Delete.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Delete.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T15:38:02.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBkAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T15:22:59.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:16:10.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\appsettings.json",
+              "RelativeToolTip": "IntegratedSystems.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T16:04:04.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PatientServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Service\\Implementation\\PatientServiceImpl.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Implementation\\PatientServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Service\\Implementation\\PatientServiceImpl.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Implementation\\PatientServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:12:49.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:10:23.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240408232639_AddedInitialDomainModels.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Repository\\Migrations\\20240408232639_AddedInitialDomainModels.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Migrations\\20240408232639_AddedInitialDomainModels.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Repository\\Migrations\\20240408232639_AddedInitialDomainModels.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Migrations\\20240408232639_AddedInitialDomainModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:26:39.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240408160547_UpdateVaccineTable.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160547_UpdateVaccineTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160547_UpdateVaccineTable.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160547_UpdateVaccineTable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160547_UpdateVaccineTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:05:47.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dbo.__EFMigrationsHistory.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IntegratedSystemsExamDatabase/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IntegratedSystemsExamDatabase/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-08T16:05:22.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240408160325_UpdateVaccineTable.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160325_UpdateVaccineTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160325_UpdateVaccineTable.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160325_UpdateVaccineTable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160325_UpdateVaccineTable.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:03:25.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:50:31.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Web\\appsettings.Development.json",
+              "RelativeToolTip": "IntegratedSystems.Web\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T16:16:05.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:38:55.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IntegratedSystemsUser.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystemsExam Moe resenie resena\\IntegratedSystems.Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:38:38.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
