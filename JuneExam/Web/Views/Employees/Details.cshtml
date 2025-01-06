@@ -1,0 +1,85 @@
+﻿@model Domain.Domain_Models.Employee
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FullName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FullName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DateOfBirth)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DateOfBirth)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Company)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CompanyId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="ScheduleExam" asp-route-id="@Model?.Id">ScheduleExam</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Address
+            </th>
+            <th>
+                Reputation
+            </th>
+            <th>
+                AvailableSlots
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.HealthExaminations)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Polyclinic.PolyclinicName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Polyclinic.PolyclinicAddress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Polyclinic.Reputation)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Polyclinic.AvailableSlots)
+                </td>
+               
+            </tr>
+        }
+    </tbody>
+</table>

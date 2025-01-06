@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\web\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\web\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\service\\implementation\\polyclinicserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|solutionrelative:service\\implementation\\polyclinicserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B55BE-3DDD-4891-9E8A-3D615BAEAC16}|Repository\\Repository.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B55BE-3DDD-4891-9E8A-3D615BAEAC16}|Repository\\Repository.csproj|solutionrelative:repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\service\\implementation\\healthexaminationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|solutionrelative:service\\implementation\\healthexaminationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\domain\\domain models\\healthexamination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\healthexamination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\domain\\dto\\healthexamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\healthexamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\service\\interface\\ihealthexaminationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|solutionrelative:service\\interface\\ihealthexaminationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\web\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\web\\views\\employees\\nocapacity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\employees\\nocapacity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\service\\interface\\ipolyclinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|solutionrelative:service\\interface\\ipolyclinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\web\\views\\polyclinics\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\polyclinics\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\domain\\domain models\\polyclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\polyclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\web\\views\\employees\\scheduleexam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\employees\\scheduleexam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\domain\\domain models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\web\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\web\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\web\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\web\\controllers\\polyclinicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\controllers\\polyclinicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\service\\implementation\\employeeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|solutionrelative:service\\implementation\\employeeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|c:\\users\\anton\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u0438\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\juneexam  moe resenie\\juneexam\\service\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|solutionrelative:service\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NoCapacity.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Employees\\NoCapacity.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Employees\\NoCapacity.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Employees\\NoCapacity.cshtml",
+              "RelativeToolTip": "Web\\Views\\Employees\\NoCapacity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T11:54:31.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Polyclinics\\Details.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Polyclinics\\Details.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Polyclinics\\Details.cshtml",
+              "RelativeToolTip": "Web\\Views\\Polyclinics\\Details.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwFAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T11:48:20.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthExaminationServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Service\\Implementation\\HealthExaminationServiceImpl.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\HealthExaminationServiceImpl.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Service\\Implementation\\HealthExaminationServiceImpl.cs",
+              "RelativeToolTip": "Service\\Implementation\\HealthExaminationServiceImpl.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:27:06.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IHealthExaminationService.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Service\\Interface\\IHealthExaminationService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IHealthExaminationService.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Service\\Interface\\IHealthExaminationService.cs",
+              "RelativeToolTip": "Service\\Interface\\IHealthExaminationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:26:33.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Web\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T11:24:41.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Web\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T11:23:00.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScheduleExam.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Employees\\ScheduleExam.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Employees\\ScheduleExam.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Employees\\ScheduleExam.cshtml",
+              "RelativeToolTip": "Web\\Views\\Employees\\ScheduleExam.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T11:22:43.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthExameDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Domain\\DTO\\HealthExameDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\HealthExameDTO.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Domain\\DTO\\HealthExameDTO.cs",
+              "RelativeToolTip": "Domain\\DTO\\HealthExameDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:17:00.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T11:16:33.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Web\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwCsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T11:13:14.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Web\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T11:13:09.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "Repository\\Implementation\\Repository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAWwDsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:12:10.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "Web\\Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:10:13.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T11:07:53.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:07:08.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolyclinicServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Service\\Implementation\\PolyclinicServiceImpl.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\PolyclinicServiceImpl.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Service\\Implementation\\PolyclinicServiceImpl.cs",
+              "RelativeToolTip": "Service\\Implementation\\PolyclinicServiceImpl.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:59:51.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Service\\Implementation\\EmployeeServiceImpl.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\EmployeeServiceImpl.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Service\\Implementation\\EmployeeServiceImpl.cs",
+              "RelativeToolTip": "Service\\Implementation\\EmployeeServiceImpl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwCwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:57:57.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Service\\Interface\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Service\\Interface\\IEmployeeService.cs",
+              "RelativeToolTip": "Service\\Interface\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:56:54.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPolyclinicService.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Service\\Interface\\IPolyclinicService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IPolyclinicService.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Service\\Interface\\IPolyclinicService.cs",
+              "RelativeToolTip": "Service\\Interface\\IPolyclinicService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:55:41.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Web\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwDIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:55:26.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PolyclinicsController.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Controllers\\PolyclinicsController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\PolyclinicsController.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Web\\Controllers\\PolyclinicsController.cs",
+              "RelativeToolTip": "Web\\Controllers\\PolyclinicsController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwv4QAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:54:42.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthExamination.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Domain\\Domain Models\\HealthExamination.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\HealthExamination.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Domain\\Domain Models\\HealthExamination.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\HealthExamination.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:53:18.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Polyclinic.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Domain\\Domain Models\\Polyclinic.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\Polyclinic.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Domain\\Domain Models\\Polyclinic.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\Polyclinic.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:53:14.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Domain\\Domain Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0421\u0438\u0441\u0442\u0435\u043C\u0438 \u0418\u0441\u043F\u0438\u0442\u043D\u0438 \u0437\u0430\u0434\u0430\u0447\u0438\\JuneExam  moe resenie\\JuneExam\\Domain\\Domain Models\\Employee.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:53:12.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
