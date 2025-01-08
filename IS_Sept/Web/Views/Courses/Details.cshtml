@@ -1,0 +1,79 @@
+﻿@model Domain.Domain_Models.Course
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Course</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CourseCode)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CourseCode)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CourseName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CourseName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.AavailableSlots)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AavailableSlots)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="AddStudent" asp-route-id="@Model?.Id">AddStudent</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Index
+            </th>
+            <th>
+                FirstName
+            </th>
+            <th>
+                LastName
+            </th>
+            <th>Embg</th>
+            <th>Phone Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.AllStudents)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Student.StudentIndex)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Student.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Student.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Student.Embg)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Student.PhoneNumber)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

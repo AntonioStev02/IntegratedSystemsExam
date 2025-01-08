@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\web\\views\\courses\\nofreespace.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|solutionrelative:web\\views\\courses\\nofreespace.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\web\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|solutionrelative:web\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\service\\implementation\\courseserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|solutionrelative:service\\implementation\\courseserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\service\\interface\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|solutionrelative:service\\interface\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38EA6A1-D7A0-41C0-83A7-D723F93290B0}|Domain\\Domain.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\domain\\domain models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38EA6A1-D7A0-41C0-83A7-D723F93290B0}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\web\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|solutionrelative:web\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38EA6A1-D7A0-41C0-83A7-D723F93290B0}|Domain\\Domain.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\domain\\domain models\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38EA6A1-D7A0-41C0-83A7-D723F93290B0}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38EA6A1-D7A0-41C0-83A7-D723F93290B0}|Domain\\Domain.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\domain\\domain models\\studentoncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38EA6A1-D7A0-41C0-83A7-D723F93290B0}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\studentoncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\service\\implementation\\studentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|solutionrelative:service\\implementation\\studentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\web\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|solutionrelative:web\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE197229-C72A-412C-A623-3199085BD992}|Repository\\Repository.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE197229-C72A-412C-A623-3199085BD992}|Repository\\Repository.csproj|solutionrelative:repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38EA6A1-D7A0-41C0-83A7-D723F93290B0}|Domain\\Domain.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\domain\\domain models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38EA6A1-D7A0-41C0-83A7-D723F93290B0}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\service\\implementation\\studentoncourseserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|solutionrelative:service\\implementation\\studentoncourseserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\service\\interface\\istudentoncourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|solutionrelative:service\\interface\\istudentoncourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\web\\views\\courses\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|solutionrelative:web\\views\\courses\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\web\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|solutionrelative:web\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\web\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|solutionrelative:web\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38EA6A1-D7A0-41C0-83A7-D723F93290B0}|Domain\\Domain.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\domain\\dto\\studentoncoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38EA6A1-D7A0-41C0-83A7-D723F93290B0}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\studentoncoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\web\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|solutionrelative:web\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|solutionrelative:web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\web\\controllers\\semesterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|solutionrelative:web\\controllers\\semesterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\service\\implementation\\semesterserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|solutionrelative:service\\implementation\\semesterserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\service\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|solutionrelative:service\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\service\\interface\\isemesterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68A9118-6AD8-444D-80F7-DD2DEAD3C522}|Service\\Service.csproj|solutionrelative:service\\interface\\isemesterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEB145E8-0D0A-4C72-94E1-ACB8D3338C83}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE197229-C72A-412C-A623-3199085BD992}|Repository\\Repository.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE197229-C72A-412C-A623-3199085BD992}|Repository\\Repository.csproj|solutionrelative:repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38EA6A1-D7A0-41C0-83A7-D723F93290B0}|Domain\\Domain.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\domain\\domain models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38EA6A1-D7A0-41C0-83A7-D723F93290B0}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE197229-C72A-412C-A623-3199085BD992}|Repository\\Repository.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\repository\\migrations\\20240906135132_finalpls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE197229-C72A-412C-A623-3199085BD992}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\20240906135132_finalpls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE197229-C72A-412C-A623-3199085BD992}|Repository\\Repository.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\repository\\migrations\\20240906134943_second34.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE197229-C72A-412C-A623-3199085BD992}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\20240906134943_second34.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE197229-C72A-412C-A623-3199085BD992}|Repository\\Repository.csproj|c:\\users\\anton\\downloads\\is_sept\\is_sept\\is_sept\\repository\\migrations\\20240906134844_second3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE197229-C72A-412C-A623-3199085BD992}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\20240906134844_second3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoFreeSpace.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Courses\\NoFreeSpace.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Courses\\NoFreeSpace.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Courses\\NoFreeSpace.cshtml",
+              "RelativeToolTip": "Web\\Views\\Courses\\NoFreeSpace.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T18:44:43.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "Web\\Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T18:35:11.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentOnCourseServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Implementation\\StudentOnCourseServiceImpl.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\StudentOnCourseServiceImpl.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Implementation\\StudentOnCourseServiceImpl.cs",
+              "RelativeToolTip": "Service\\Implementation\\StudentOnCourseServiceImpl.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:29:08.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStudentOnCourseService.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Interface\\IStudentOnCourseService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IStudentOnCourseService.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Interface\\IStudentOnCourseService.cs",
+              "RelativeToolTip": "Service\\Interface\\IStudentOnCourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:28:40.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "Web\\Views\\Courses\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T18:23:25.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "Web\\Views\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T18:23:09.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Courses\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Courses\\AddStudent.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Courses\\AddStudent.cshtml",
+              "RelativeToolTip": "Web\\Views\\Courses\\AddStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T18:23:07.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentOnCourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Domain\\DTO\\StudentOnCourseDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\StudentOnCourseDTO.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Domain\\DTO\\StudentOnCourseDTO.cs",
+              "RelativeToolTip": "Domain\\DTO\\StudentOnCourseDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:18:30.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Web\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T18:14:24.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Courses\\Details.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Courses\\Details.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Courses\\Details.cshtml",
+              "RelativeToolTip": "Web\\Views\\Courses\\Details.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T18:14:22.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "Repository\\Implementation\\Repository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswD0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:13:15.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Implementation\\CourseServiceImpl.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\CourseServiceImpl.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Implementation\\CourseServiceImpl.cs",
+              "RelativeToolTip": "Service\\Implementation\\CourseServiceImpl.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:57:42.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SemesterServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Implementation\\SemesterServiceImpl.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\SemesterServiceImpl.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Implementation\\SemesterServiceImpl.cs",
+              "RelativeToolTip": "Service\\Implementation\\SemesterServiceImpl.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:55:11.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Implementation\\StudentServiceImpl.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\StudentServiceImpl.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Implementation\\StudentServiceImpl.cs",
+              "RelativeToolTip": "Service\\Implementation\\StudentServiceImpl.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:51:51.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Interface\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Interface\\IStudentService.cs",
+              "RelativeToolTip": "Service\\Interface\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:50:17.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISemesterService.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Interface\\ISemesterService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\ISemesterService.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Interface\\ISemesterService.cs",
+              "RelativeToolTip": "Service\\Interface\\ISemesterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:49:23.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Interface\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Service\\Interface\\ICourseService.cs",
+              "RelativeToolTip": "Service\\Interface\\ICourseService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:47:34.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBwAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T13:56:34.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Web\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:54:46.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvyAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:50:04.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SemestersController.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Controllers\\SemestersController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\SemestersController.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Controllers\\SemestersController.cs",
+              "RelativeToolTip": "Web\\Controllers\\SemestersController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv34AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:54:12.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Web\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAADwv4QAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:53:39.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T13:50:41.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240906135132_FinalPls.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Repository\\Migrations\\20240906135132_FinalPls.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20240906135132_FinalPls.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Repository\\Migrations\\20240906135132_FinalPls.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20240906135132_FinalPls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:51:32.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240906134943_Second34.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Repository\\Migrations\\20240906134943_Second34.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20240906134943_Second34.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Repository\\Migrations\\20240906134943_Second34.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20240906134943_Second34.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:49:44.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:46:46.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240906134844_Second3.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Repository\\Migrations\\20240906134844_Second3.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20240906134844_Second3.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Repository\\Migrations\\20240906134844_Second3.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20240906134844_Second3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:48:45.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Domain\\Domain Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Domain\\Domain Models\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:47:00.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentOnCourse.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Domain\\Domain Models\\StudentOnCourse.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\StudentOnCourse.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Domain\\Domain Models\\StudentOnCourse.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\StudentOnCourse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:36:18.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Domain\\Domain Models\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\Student.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Domain\\Domain Models\\Student.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:36:17.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Semester.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Domain\\Domain Models\\Semester.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\Semester.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Domain\\Domain Models\\Semester.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\Semester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:36:16.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Domain\\Domain Models\\Course.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\Course.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\is_sept\\IS_Sept\\IS_Sept\\Domain\\Domain Models\\Course.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:35:51.194Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
